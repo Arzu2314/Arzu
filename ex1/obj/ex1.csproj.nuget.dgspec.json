@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пк\\Desktop\\рекурсия\\Arzu\\ex1\\ex1.csproj": {}
+    "C:\\Users\\пк\\Desktop\\рекурсия\\arzu\\ex1\\ex1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пк\\Desktop\\рекурсия\\Arzu\\ex1\\ex1.csproj": {
+    "C:\\Users\\пк\\Desktop\\рекурсия\\arzu\\ex1\\ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пк\\Desktop\\рекурсия\\Arzu\\ex1\\ex1.csproj",
+        "projectUniqueName": "C:\\Users\\пк\\Desktop\\рекурсия\\arzu\\ex1\\ex1.csproj",
         "projectName": "ex1",
-        "projectPath": "C:\\Users\\пк\\Desktop\\рекурсия\\Arzu\\ex1\\ex1.csproj",
+        "projectPath": "C:\\Users\\пк\\Desktop\\рекурсия\\arzu\\ex1\\ex1.csproj",
         "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пк\\Desktop\\рекурсия\\Arzu\\ex1\\obj\\",
+        "outputPath": "C:\\Users\\пк\\Desktop\\рекурсия\\arzu\\ex1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\пк\\AppData\\Roaming\\NuGet\\NuGet.Config"
